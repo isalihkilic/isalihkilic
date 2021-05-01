@@ -1,16 +1,33 @@
-### Hi there 👋
+<html>
+  <body>
+    <h1 align="center">Hi There 👋</h1>
+    <p style="font-size:50px;" align="center">I'm studying at <b>Nilüfer IMKB Science High School</b></p> 
+   
+<p>Contact with me via these platforms!</p>
+   <a align="center" href="mailto:isalihkilic@gmail.com">
+      <img align="center" src="https://img.shields.io/badge/-Gmail-FF4500?logo=gmail&logoColor=white&style=for-the-badge"></img>
+   </a>
 
-<!--
-**ISalihKilic/ISalihKilic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--<h3>:computer: Languages</h3>
+<p>
+  <img src="https://img.shields.io/badge/C%23-663399?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/Angular-ff0000?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-8B0000?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+</p>
+<h3>:hammer_and_wrench: Tools</h3>
+<p>
+  <img src="https://img.shields.io/badge/Windows-00008B?style=for-the-badge&logo=windows&logoColor=blue">
+  <img src="https://img.shields.io/badge/Visual_Studio_2019-9932CC?style=for-the-badge&logo=visual_studio_2019&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-1E90FF?style=for-the-badge&logo=visual_studio_code&logoColor=white">
+</p>-->
+<p>
+   <a href="https://github.com/ISalihKilic">
+      <img src="https://github-readme-stats.vercel.app/api/?username=ISalihKilic&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=1e90fff&icon_color=1e90ff&hide_border=true" style="max-width:100%;">
+    </a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   <a href="https://github.com/ISalihKilic">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISalihKilic&layout=compact&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=1e90fff&icon_color=1e90ff&hide_border=true" style="max-width:100%;">
+    </a>
+</p>
+  </body>
+</html>
