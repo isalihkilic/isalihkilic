@@ -10,7 +10,7 @@
 
 <h3>:computer: Languages</h3>
 <p>
-  <img src="https://img.shields.io/badge/Python-113311?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-111144?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Angular-ff0000?style=for-the-badge&logo=angular&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-8B0000?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
 </p>
