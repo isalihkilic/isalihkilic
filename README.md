@@ -11,8 +11,8 @@
 <h3>:computer: Languages</h3>
 <p>
   <img src="https://img.shields.io/badge/Python-111144?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Angular-ff0000?style=for-the-badge&logo=angular&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-8B0000?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-00dd00?style=for-the-badge&logo=node&logoColor=white">
+  <img src="https://img.shields.io/badge/Go-4444ff?style=for-the-badge&logo=golang&logoColor=white">
 </p>
 <h3>:hammer_and_wrench: Tools</h3>
 <p>
