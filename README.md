@@ -12,11 +12,11 @@
 <p>
   <img src="https://img.shields.io/badge/Python-2233aa?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-00dd00?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Go-66aaff?style=for-the-badge&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-0000bb?style=for-the-badge&logo=c++&logoColor=white">
-  <img src="https://img.shields.io/badge/Arduino-00dd00?style=for-the-badge&logo=arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/Go-7fd5ea?style=for-the-badge&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-0033cc?style=for-the-badge&logo=c++%2b%2b&logoColor=white">
+  <img src="https://img.shields.io/badge/Arduino-00979d?style=for-the-badge&logo=arduino&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-663399?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML-ccaa10?style=for-the-badge&logo=html&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-ccaa10?style=for-the-badge&logo=html5&logoColor=white">
 </p>
 <h3>:hammer_and_wrench: Tools</h3>
 <p>
