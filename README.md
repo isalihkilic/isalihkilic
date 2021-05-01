@@ -12,7 +12,7 @@
 <p>
   <img src="https://img.shields.io/badge/Python-1111aa?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-00dd00?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Go-aaaaff?style=for-the-badge&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/Go-8888ff?style=for-the-badge&logo=go&logoColor=white">
 </p>
 <h3>:hammer_and_wrench: Tools</h3>
 <p>
