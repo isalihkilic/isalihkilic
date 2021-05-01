@@ -20,8 +20,10 @@
 </p>
 <h3>:hammer_and_wrench: Tools</h3>
 <p>
+  <img src="https://img.shields.io/badge/Arduino%20IDE-00979d?style=for-the-badge&logo=arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/tensorflow-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-c51d4a?style=for-the-badge&logo=raspberry-pi&logoColor=white">
   <img src="https://img.shields.io/badge/Windows-00008B?style=for-the-badge&logo=windows&logoColor=blue">
-  <img src="https://img.shields.io/badge/Visual_Studio_2019-9932CC?style=for-the-badge&logo=visual_studio_2019&logoColor=white">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-1E90FF?style=for-the-badge&logo=visual_studio_code&logoColor=white">
 </p>
 <p>
