@@ -7,7 +7,9 @@
    <a align="center" href="mailto:isalihkilic@gmail.com">
       <img align="center" src="https://img.shields.io/badge/-Gmail-FF4500?logo=gmail&logoColor=white&style=for-the-badge"></img>
    </a>
-
+   <a align="center" href="https://www.linkedin.com/in/isalihkilic/">
+      <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
+   </a>
 <h3>:computer: Languages</h3>
 <p>
   <img src="https://img.shields.io/badge/Python-2233aa?style=for-the-badge&logo=python&logoColor=white">
