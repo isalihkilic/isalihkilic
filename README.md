@@ -1,7 +1,7 @@
 <html>
   <body>
     <h1 align="center">Hi There 👋</h1>
-    <p style="font-size:50px;" align="center">I'm studying at <b>Nilüfer IMKB Science High School</b></p> 
+    <p style="font-size:50px;" align="center">I'm studying at <b>Nilüfer Borsa Istanbul Science High School</b></p> 
    
 <p>Contact with me via these platforms!</p>
    <a align="center" href="mailto:isalihkilic@gmail.com">
