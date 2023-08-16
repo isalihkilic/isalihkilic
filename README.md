@@ -32,11 +32,11 @@
   I'm the captain of my school's robotics club, NİF Robotik Takımı. We are actively working on autonomous UAV systems. We are participating in 5 competitions at TEKNOFEST for now.  
 </p>
 <p>
-   <a href="https://github.com/ISalihKilic">
+   <a href="https://github.com/isalihkilic">
       <img src="https://github-readme-stats.vercel.app/api/?username=ISalihKilic&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=1e90fff&icon_color=1e90ff&hide_border=true" style="max-width:100%;">
     </a>
 
-   <a href="https://github.com/ISalihKilic">
+   <a href="https://github.com/isalihkilic">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISalihKilic&layout=compact&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=1e90fff&icon_color=1e90ff&hide_border=true" style="max-width:100%;">
     </a>
 </p>
